@@ -6,6 +6,8 @@ I am an undergraduate student at FPT University in Information Assurance
 
 * Front-end Techonologies : Angular 
 * Back-end Technologies : Nodejs, ExpressJS, Micro-service ExpressJS,...
+* System: Linux in-depth
+* Platform: Google Cloud, Microsoft Azure
 
 ### Contact me :3 
 
