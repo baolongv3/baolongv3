@@ -5,8 +5,8 @@ I am an undergraduate student at FPT University in Information Assurance
 ### What I'm currently Focusing on
 
 * Front-end Techonologies : Angular 
-* Back-end Technologies : Nodejs, ExpressJS, Micro-service ExpressJS,...
-* System: Linux in-depth
+* Back-end Technologies : Nodejs, Python
+* System: Linux in-depth, Terraform, Ansible, Docker, Kubernetes, OpenStack
 * Platform: Google Cloud, Microsoft Azure
 
 ### Contact me :3 
